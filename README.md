@@ -18,10 +18,10 @@ This is a playground project to experiment with using the Python libraries Panda
 - Install requirements if needed from the requirements.txt (`pip install -r requirements.txt`)
 - Most of the important parameters for the cells are at the top in the first cell
 
-### Interactive plot for Capital Gains Tax calculations:
+### Interactive plot for Capital Gains Tax calculations (using ipywidgets):
 
 ![Alt text](screenshots/capgainsinteractiveplot.PNG)
 
-### Interactive Plot for Investment Scenarios
+### Interactive Plot for Investment Scenarios (ipywidgets)
 
 ![Alt text](screenshots/interactivescenarioplot.PNG)
