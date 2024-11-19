@@ -1,4 +1,5 @@
-pandas
-numpy
-matplotlib
-ipython
+pandas~=2.1.4
+numpy~=1.26.0
+matplotlib~=3.8.0
+ipython~=8.15.0
+ipywidgets~=8.0.3
